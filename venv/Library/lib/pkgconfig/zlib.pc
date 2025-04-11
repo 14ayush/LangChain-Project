@@ -1,12 +1,12 @@
-prefix=E:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library
-exec_prefix=E:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library
-libdir=E:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/lib
-sharedlibdir=E:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/lib
-includedir=E:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/include
+prefix=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library
+exec_prefix=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library
+libdir=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/lib
+sharedlibdir=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/lib
+includedir=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/include
 
 Name: zlib
 Description: zlib compression library
-Version: 1.2.13
+Version: 1.3.1
 
 Requires:
 Libs: -L${libdir} -L${sharedlibdir} -lz

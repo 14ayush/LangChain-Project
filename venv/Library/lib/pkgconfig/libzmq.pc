@@ -1,0 +1,12 @@
+prefix=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library
+exec_prefix=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library
+libdir=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/lib
+includedir=e:/MyProjects/Langchain/Project1/LangChain-Project/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
